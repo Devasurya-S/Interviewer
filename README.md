@@ -1,6 +1,7 @@
 # Setup
 Database name - web_app
-install node module and composer dependencies
+Install node module and composer dependencies
+Run migrations
 
 # Interview Pages
 /login for emplyee login
